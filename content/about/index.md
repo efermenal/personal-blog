@@ -6,7 +6,7 @@ showReadingTime: false
 showEdit: false
 ---
 
-<img src="untitled.jpg" alt="Author" width="250" />
+<img src="author-about.jpg" alt="Author" width="250" />
 
 
 Hi there!

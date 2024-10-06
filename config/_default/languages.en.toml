@@ -14,7 +14,7 @@ title = "Home"
 
 [params.author]
    name = "Endherson"
-   image = "img/untitled-2.jpg"
+   image = "img/author-main.jpg"
    headline = "<q>What seest thou else in the dark backward and abysm of time?</q><br/>Prospero, act I, scene II - The Tempest"
    bio = ""
    links = [
