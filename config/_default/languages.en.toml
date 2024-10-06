@@ -3,22 +3,22 @@ languageName = "English"
 languageDirection = "ltr"
 weight = 1
 
-title = "Congo"
+title = "Home"
 # copyright = "Copy, _right?_ :thinking_face:"
 
 [params]
   dateFormat = "2 January 2006"
 
-  # mainSections = ["section1", "section2"]
-  # description = "My awesome website"
+ # mainSections = ["posts"]
+ # description = "My awesome website"
 
 [params.author]
-  # name = "Your name here"
-  # image = "img/author.jpg"
-  # headline = "I'm only human"
-  # bio = "A little bit about you"
-  # links = [
-  #   { email = "mailto:hello@your_domain.com" },
+   name = "Endherson"
+   image = "img/untitled-2.jpg"
+   headline = "<q>What seest thou else in the dark backward and abysm of time?</q><br/>Prospero, act I, scene II - The Tempest"
+   bio = ""
+   links = [
+     { email = "mailto:contact@endherson.me" },
   #   { link = "https://link-to-some-website.com/" },
   #   { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
   #   { apple = "https://www.apple.com" },
@@ -30,16 +30,16 @@ title = "Congo"
   #   { facebook = "https://facebook.com/username" },
   #   { flickr = "https://www.flickr.com/photos/username/" },
   #   { foursquare = "https://foursquare.com/username" },
-  #   { github = "https://github.com/username" },
+     { github = "https://github.com/efermenal" },
   #   { gitlab = "https://gitlab.com/username" },
   #   { google = "https://www.google.com/" },
   #   { google-scholar = "https://scholar.google.com/citations?user=user-id" },
   #   { hashnode = "https://username.hashnode.dev" },
-  #   { instagram = "https://instagram.com/username" },
+     { instagram = "https://www.instagram.com/efermenal" },
   #   { keybase = "https://keybase.io/username" },
   #   { kickstarter = "https://www.kickstarter.com/profile/username" },
   #   { lastfm = "https://lastfm.com/user/username" },
-  #   { linkedin = "https://linkedin.com/in/username" },
+     { linkedin = "https://cl.linkedin.com/in/endherson-fermenal-727913109" },
   #   { mastodon = "https://mastodon.instance/@username" },
   #   { medium = "https://medium.com/username" },
   #   { mendeley = "https://www.mendeley.com/" },
@@ -60,6 +60,6 @@ title = "Congo"
   #   { tumblr = "https://username.tumblr.com" },
   #   { twitch = "https://twitch.tv/username" },
   #   { whatsapp = "https://wa.me/phone-number" },
-  #   { x-twitter = "https://twitter.com/username" },
+     { x-twitter = "https://x.com/keinen101010101" },
   #   { youtube = "https://youtube.com/username" },
-  # ]
+   ]
