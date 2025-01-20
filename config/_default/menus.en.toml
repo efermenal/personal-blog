@@ -23,17 +23,22 @@
 [[main]]
   name = "Tags"
   pageRef = "tags"
-  weight = 30
+  weight = 36
 
-  [[main]]
+[[main]]
   name = "Travels"
   pageRef = "travels"
   weight = 35
 
-  [[main]]
+[[main]]
   name = "About"
   pageRef = "about"
   weight = 40
+  
+[[main]]
+  name = "Books"
+  pageRef = "books"
+  weight = 30
 
 [[main]]
   identifier = "search"
