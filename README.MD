@@ -1,6 +1,6 @@
 # Personal Blog
 
-> Sourcecode for [endherson.me](https//:endherson.me)
+> Sourcecode for [endherson.me](https://www.endherson.me)
 
 [![Pre-Deploy Checks](https://github.com/efermenal/personal-blog/actions/workflows/pre-deploy-checks.yml/badge.svg)](https://github.com/efermenal/personal-blog/actions/workflows/pre-deploy-checks.yml)
 [![GitHub Pages](https://github.com/efermenal/personal-blog/actions/workflows/gh-pages.yml/badge.svg)](https://github.com/efermenal/personal-blog/actions/workflows/gh-pages.yml)
