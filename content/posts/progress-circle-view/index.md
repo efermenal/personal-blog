@@ -33,9 +33,11 @@ We need to find a way to tell the system how to use our paints. And the way of d
 As you can notice, we ensure of selecting the largest radius between the width and the height of the view, and we calculate the coordinates of the view vertically and horizontally, where the center of the circle will be drawn. We also consider into account the border size of the view (the arc we'll draw next) before passing the plaint object. At this stage, if we add the PercentageCircleView to the layout, we can see a circle being rended. So far, so good!
 
 Next step is to draw the border. To achieve this, we'll use drawArc method from the canvas and apply some basic math to calculate the angle of the arc according to the current percentage:
+
 ```kotlin
 val sweepAngle = (360 * animatedPercentage) / 100f
 ```
+
 By multiplying animatedPercentage by 360 and dividing by 100, we convert the percentage into an angle in degrees inside the bounds from 0° to 360°. We also need to specify the starting angle for the arc. Knowing that setting the angle to 0° will start it in the right side of the circle, then we use -90° to start on the top of the circle. Finally we pass our borderPlaint object.
 
 {{< gist efermenal 15a1e7875f4f62401f471a2e3e27cd03 >}}
@@ -48,10 +50,4 @@ Now our view is completed. Nevertheless, we still need to animate the transition
 
 {{< gist efermenal ce3b112dc6158e0ef2fe5ec408d84cb8 >}}
 
-Now we're done! I hope you've learned something new today. This simple view showcases some interesting capabilities, and it can be serve as a foundation for more complex views. If you find any bugs or have a suggestions, feel free to reach me out on social media or email me at contact@endherson.me. You can find the source code for this article on <a href="https://github.com/efermenal/circular-progress-view" target="_blank">
-    {{< icon github >}}
-</a>
-
-
-
-
+Now we're done! I hope you've learned something new today. This simple view showcases some interesting capabilities, and it can be serve as a foundation for more complex views. If you find any bugs or have a suggestions, feel free to reach me out on social media or email me at <contact@endherson.me>. You can find the source code for this article on [{{< icon github >}}](https://github.com/efermenal/circular-progress-view)

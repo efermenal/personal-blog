@@ -6,4 +6,4 @@ showReadingTime: false
 showEdit: false
 ---
 
-<img src="under-construction.jpg" alt="Under Construction"/>
+![Under Construction](under-construction.jpg)

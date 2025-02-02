@@ -6,8 +6,7 @@ showReadingTime: false
 showEdit: false
 ---
 
-<img src="author-about.jpg" alt="Author" width="250" />
-
+![Author](author-about.jpg)
 
 Hi there!
 
