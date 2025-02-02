@@ -27,8 +27,8 @@ jobs:
 
       - name: Spell check
         run: |
-          npm install -g spellchecker-cli
-          find content/ -name "*.md" | xargs -I {} spellchecker --files {}
+          npm install -g cspell
+          find content/ -name "*.md" | xargs cspell --config cspell.json
 
       - name: Markdown linting
         run: |
