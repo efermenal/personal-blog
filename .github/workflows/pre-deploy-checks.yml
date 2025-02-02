@@ -1,0 +1,36 @@
+# .github/workflows/pre-deploy-checks.yml
+
+name: Pre-Deploy Checks
+
+on:
+  pull_request:
+    branches:
+      - master
+  push:
+    branches:
+      - master
+
+jobs:
+  checks:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+        with:
+          submodules: true
+          fetch-depth: 0
+
+      - name: Check for broken links
+        run: |
+          npm install -g markdown-link-check
+          find content/ -name "*.md" | xargs -I {} markdown-link-check {}
+
+      - name: Spell check
+        run: |
+          npm install -g spellchecker-cli
+          find content/ -name "*.md" | xargs -I {} spellchecker --files {}
+
+      - name: Markdown linting
+        run: |
+          npm install -g markdownlint-cli
+          markdownlint content/

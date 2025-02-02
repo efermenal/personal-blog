@@ -3,7 +3,10 @@
 name: GitHub Pages
 
 on:
-  push:
+  workflow_run:
+    workflows: ["Pre-Deploy Checks"]
+    types:
+      - completed
     branches:
       - master
 
