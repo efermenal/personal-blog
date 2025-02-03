@@ -21,7 +21,7 @@ by bureaucracy, Buzzati poses a scenario where the waiting is the sense of the l
 has been stripped of his familiarity with the world outside the fortress.
 
 > Everything goes by—men, the seasons, the clouds, and there is no use clinging to the stones,
-> no usefighting it out on some rock in mid-stream; the tired fingers open, the arms fall back inertly
+> no use fighting it out on some rock in mid-stream; the tired fingers open, the arms fall back inertly
 > and you are still dragged into the river, the river which seems to flow so slowly yet never stops
 
 The book explores time as a recurring theme, serving Drogo's life as an example of the fleetingness of
