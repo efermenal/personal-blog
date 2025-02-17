@@ -9,14 +9,14 @@ showDateUpdated: true
 > poignancy is produced without a single strained passage or a single false note.\
 > — *H. P. Lovecraft*[^1]
 
-Apart of a handful of critics, Algernon Blackwood does not sit on the place I believe he deserves
-among contemporary horror writers—let alone between the public, to whom he seems to remain
-largely unknown. It has been quite some time since Blackwood was first introduced to me by Lovecraft
-in *Supernatural Horror in Literature*. In that work, Lovecraft honors him as one of the
-"Modern Masters", along with Machen, Lord Dunsany and M. R. James. Since then, Blackwood has
-occupied a special place in my mind, resurfacing from time to time—sometimes as a youthful evocation
-tied to a cherished twilight sunset; other times, as a whisper that evokes fascination with horror
-and fright.
+Apart of the opinon of a handful of critics, Algernon Blackwood does not sit on the place
+I believe he deserves among contemporary horror writers—let alone between the public,
+to whom he seems to remain largely unknown. It has been quite some time since Blackwood
+was first introduced to me by Lovecraft in *Supernatural Horror in Literature*.
+In that work, Lovecraft honors him as one of the "Modern Masters", along with Machen,
+Lord Dunsany and M. R. James. Since then, Blackwood has occupied a special place in my mind,
+resurfacing from time to time—sometimes as a youthful evocation tied to a cherished
+twilight sunset; other times, as a whisper that evokes fascination with horror and fright.
 
 Perhaps, one of the greatest virtues of Blackwood is his ability to craft a suggestive and
 oppressive atmosphere from seemingly mundane situations—This does not mean that I overlooked
@@ -47,14 +47,14 @@ and were nothing more than intruders.
  > It's in the willows. It's the willows themselves humming, because here the willows
  > have been made symbols of the forces that are against us
 
-In addition to its the cosmic horror, *The Willows* also incorporates a significant charge of psychological
+In addition to the cosmic horror, *The Willows* also incorporates a significant charge of psychological
 horror. We witness the inner turmoils of the characters as they helplessly, and rising like in a noisy
-crescendo, attempt to rationalize the increasingly strange events, holding onto any possible explanation—
-was that mass fluttering in the river, really, just an otter?. This highlights the ancient human
-need to find a comforting explanation for the unknown, rather than to suspend on the uncertainty,
-or even worse: come across something that force us to confront the reality that we try desperately
-to conceal behind the safe doors of a candid world—ignorance is a bliss and the little happiness a man
-can find is subordinated to reasons no matter how absurd they may be.
+crescendo, attempt to rationalize the increasingly strange events, holding onto any possible
+explanation—was that mass fluttering in the river, really, just an otter?—. This highlights the
+ancient human need to find a comforting explanation for the unknown, rather than to suspend
+on the uncertainty, or even worse: come across something that force us to confront the reality
+that we try desperately to conceal behind the safe doors of a candid world—ignorance is a bliss
+and the little happiness a man can find is subordinated to reasons no matter how absurd they may be.
 
  > It is a question wholly of the mind, and the less we think about them the better our chance of escape.
  > Above all, don't think for what you think happens!
