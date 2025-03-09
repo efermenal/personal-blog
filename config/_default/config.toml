@@ -7,7 +7,7 @@ baseURL = "https://endherson.me/"
 defaultContentLanguage = "en"
 
 enableRobotsTXT = true
-paginate = 10
+pagination.pagerSize = 10
 summaryLength = 0
 
 [outputs]
