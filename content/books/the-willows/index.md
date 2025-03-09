@@ -9,7 +9,7 @@ showDateUpdated: true
 > poignancy is produced without a single strained passage or a single false note.\
 > — *H. P. Lovecraft*[^1]
 
-Apart of the opinon of a handful of critics, Algernon Blackwood does not sit on the place
+Apart of the opinion of a handful of critics, Algernon Blackwood does not sit on the place
 I believe he deserves among contemporary horror writers—let alone between the public,
 to whom he seems to remain largely unknown. It has been quite some time since Blackwood
 was first introduced to me by Lovecraft in *Supernatural Horror in Literature*.
