@@ -5,7 +5,7 @@ Arcadios
 Aureliano  
 Aurelianos  
 Bastiani  
-Buendía  
+Buendía
 Buzzati  
 cualquier  
 Drogo  
@@ -21,7 +21,8 @@ lastmod
 libros  
 Machen  
 Macondo  
-Márquez  
+Márquez
+Melquíades  
 nuestro  
 Pietro  
 recurrying  

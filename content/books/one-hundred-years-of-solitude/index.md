@@ -98,6 +98,15 @@ Still, although funny, some of these situations make us reflect on deeper issues
 against oblivion during the insomnia plague, or Aureliano's obsession with making and unmaking
 little gold fishes while dreaming of dying of exhaustion in oblivion.
 
+We can also see the prophetic character in the novel, personified in the gypsy Melquíades,
+illustrating the idea that in a certain sense, memory has no way back, not only for the
+Buendía but for everyone, that everything in the past is irretrievable and that everything
+could only be an ephemeral truth, since everything in the past annihilates itself, consuming
+itself within itself, but without ever ending. At the, through one of the last Aurelianos,
+the novel reveals the incapacity to decipher the signs that we have before us because of
+the inability to learn from the past. This finally leads to the anagnorisis of the last
+of the Aurelianos and his resignation to the events that had been prophesied.
+
 All in all, solitude is the defining trait of Buendia family members, and it can be interpreted as
 the inherent isolation of human existence or the lack of fulfill true connections.
 Ultimately, it is the description of the existential gap that despite our deepest effort
