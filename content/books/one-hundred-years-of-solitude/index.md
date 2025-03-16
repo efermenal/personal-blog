@@ -107,11 +107,11 @@ the novel reveals the incapacity to decipher the signs that we have before us be
 the inability to learn from the past. This finally leads to the anagnorisis of the last
 of the Aurelianos and his resignation to the events that had been prophesied.
 
-All in all, solitude is the defining trait of Buendia family members, and it can be interpreted as
-the inherent isolation of human existence or the lack of fulfill true connections.
+All in all, solitude is the defining trait of the Buendía family members, and it can be interpreted as
+the inherent isolation of human existence or the inability to fulfill true connections.
 Ultimately, it is the description of the existential gap that despite our deepest effort
-of intimacy cannot be bridged, reminding us the impossibility to reconcile the human
-individuality with a common union no matter how deeply with connect with others:
-we are islands and nothing really can touch us.
+of intimacy cannot be bridged, reminds us of the impossibility to reconcile the human
+individuality with a common union no matter how deeply we connect with others:
+we are islands, and nothing can truly touch us.
 
 [^1]: "One of the great books, not only of our time but of any time" [Borges about One Hundred Years of Solitude in an interview conducted by Joaquín Soler Serrano](https://youtu.be/LWEMhCPDsxQ?t=3729)(1980).
