@@ -21,7 +21,7 @@ the honor of owning one.
 
 As mentioned earlier, it is clear I have only accessed the "collection of fragments" that comprise
 the anthology I am going to review. Despite its fragmentary nature, it feels like it provides a
-carefully curated selection of material holding the main ideas and adding a thoughful preliminary study
+carefully curated selection of material holding the main ideas and adding a thoughtful preliminary study
 that introduces us gracefully to the crux of the matter.
 
 > God is dead and his death was the life of the universe.
