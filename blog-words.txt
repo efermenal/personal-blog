@@ -14,8 +14,7 @@ Endherson
 García  
 grandes  
 Iguarán  
-Joaquín  
-Joaquín (duplicate)  
+Joaquín    
 José  
 lastmod  
 libros  
@@ -31,4 +30,18 @@ Soler
 tiempo  
 Úrsula  
 Viena  
-Wendigo  
+Wendigo
+Mainländer
+Philipp
+Batz
+Cioran
+Pérez
+Conerjo
+Baquedano
+Philosophie
+Erlösung
+incognizable
+cosmovision
+creational
+Kirilov
+antinatalist
