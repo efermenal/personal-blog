@@ -25,23 +25,26 @@ the anthology I am going to review. Despite its fragmentary nature, it feels lik
 carefully curated selection of material holding the main ideas and adding a thoughtful preliminary study
 that introduces us gracefully to the crux of the matter.
 
-> God is dead and his death was the life of the universe.
+> God is dead and his death was the life of the universe
 
-In *Die Philosophie der Erlösung*, Mainländer proposes a unique cosmovision of the universe: at
+In *Die Philosophie der Erlösung*—translated as The Philosophy of Redemption or
+The Philosophy of Salvation—, Mainländer proposes a unique cosmovision of the universe: at
 the beginning, there was only God as a pre-cosmic, incognizable unit—a super-being—who, at
 some point, exercised his sole divine will after concluding that non-existence was better
 than existence. God didn't want to be. However, due to his divine nature, his essence was
 an obstacle to his immediate entrance into nothingness—since he is almighty.
 Therefore, his essence had to disintegrate into a world of multiplicity, where every
 single individual is willing not to be, fighting each other to weaken the remaining
-strengths of a God who is no more. In this way, the whole universe has a goal: not being,
-and it is achieved by the continuous weakening of forces to the point of extermination.
+strengths of a God who is no more. In this way, the whole universe—the fragments of God—has
+a goal: not being, and it is achieved by the continuous weakening of forces to the
+point of extermination. Borges beautifully captures this idea, describing universal
+history as "the dark agony of those fragment".
 
-This weakening of forces/wills is the law of the cosmos, and for mankind, it is translated
+This weakening of forces/wills is the law that rules the cosmos, and for mankind, it is translated
 into suffering. We can see in this creational myth parallels with the Big Bang: this God,
 eager not to be, marks the beginning of time, while the expansion of the universe would be
 the multitude of wills resulting from the suicidal God. Indeed, Mainländer thought of his
-philosophical system as a way to reconcile religion with science. Under this paradigm,
+philosophical system as a way to reconcile religion with science. Nevertheless, under this paradigm,
 life is not the result of a conscientious divine creation, but rather an exhaustion of
 a blind will, where everything is subordinated to the Law of the Weakening of the
 Force—implying that the ultimate fate of everything is disappearance. The death of
@@ -55,7 +58,7 @@ consequences and responds to a teleology of extermination, where the final desti
 universe is self-destruction. This destruction is not a failure, but the only possible
 path to redemption.
 
-> It is the movement of complete annihilation, the movement from being to non-being.
+> It is the movement of complete annihilation, the movement from being to non-being
 
 Mainländer's teleology of extermination is, undoubtedly, a radical response to the problem
 of suffering. Facing a universe without a positive purpose that annihilates itself every
@@ -75,7 +78,7 @@ where true ascetic redemption is nothing less than annihilation, as he doesn't b
 we can access the artistic and contemplative universe that alleviates existence,
 as Schopenhauer suggests. In both, we can see the Buddhist influence.
 
-> And the consoling answer says: all of you will find extermination and will be redeemed.
+> And the consoling answer says: all of you will find extermination and will be redeemed
 
 I think it was Nietzsche who claimed that for a philosopher to be respectable, he had to
 lead by example. While it is said that Schopenhauer ranted about life with a glass of
@@ -86,17 +89,19 @@ thing and do another separating beliefs from actions—"when my
 nostalgia for death increases just a little more, then my confession may have the strength
 to support any of my fellow men in their struggle against life".
 
-One day in April of 1876, before the printing of *Die Philosophie der Erlösung*, Mainländer
+This "nostalgia for death" became unbearable one day in April of 1876.
+Before the printing of *Die Philosophie der Erlösung*, Mainländer
 took his own life becoming into a deadly testament of his own ideas.
 He embraced, through his actions, the most extreme conclusion of his philosophy,
 showing us that the radical rejection of life was not
-only a theoretical stance, but it was truly a matter of existential need. I believe he couldn't live
-in contradiction with its own views, and after giving the world his best work, he felt like
-a tree that has given its best fruits. The logical consequence demanded coherence
-between thoughts and actions. It wasn't an act of despair, but his last philosophical gesture,
-an intellectual exercise of self-redemption.
-His case is perhaps, as Sandra Baquedano Jer maintains, one of the few deaths in history due to an ontological
-argument. He was only 33 years old.
+only a theoretical stance, but it was truly a matter of existential need. I believe he could not live
+in contradiction with its own views, and after offering the world what he
+considered his most valuable work, he felt like a tree that has given its best fruits
+draining his life of any value. The logical consequence demanded coherence
+between thoughts and actions. It wasn't an act of despair, but his last philosophical
+gesture, an intellectual exercise of self-redemption.
+His case is perhaps, as Sandra Baquedano Jer maintains, one of the few deaths
+in history due to an ontological argument. He was only 33 years old.
 
 > Oh, wretched ephemeral race, children of chance and misery, why do you compel me to tell you what
 > it would be most expedient for you not to hear?\
