@@ -89,6 +89,20 @@ standing as the other side of Jose Arcadio, who chases his passions with diligen
 whereas Amaranta's passion and self denial, out herself away of others, provoking both
 an emotional and physical solitude.
 
+Úrsula Iguarán, José Arcadio Buendía's wife and cousin, is one of the central characters of the novel,
+being the pillar of the Buendía household. Her nature contrasts with her
+husband, as she tries to keep the family grounded despite the fantastical events and social
+commotion occurring in Macondo, showing herself as a deeply moral character that offers
+counsel to her family and pragmatism when action is needed—such as when Aureliano's authority
+becomes into tyranny. She lives an extraordinary age and witness the cycles of fate that define
+the Buendía family. Furthermore, Úrsula is aware of the tragic repetitions of history,
+that leads her to make efforts to find a way out of the curse that plagues the Buendía,
+demonstrating a clear understanding of the destiny of the family. The certainty of the pig-tailed child's
+birth foretold by her mother due to her incestuous relationship and her attempts to
+break the cycle, make Ursula a symbol of perseverance, but at the same time her failures to
+avoid the feared prophecy reinforces the inevitability of the destiny and the inability to
+scape from the past.
+
 The novel is not only characterized by its nostalgic and sometimes tragic tone, but also incorporates
 humorous and absurd elements that enrich the narrative and offer moments of relief within the
 density of the work. Thus we see priests levitating, animals reproducing as if there were no
