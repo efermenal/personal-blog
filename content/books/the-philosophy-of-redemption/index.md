@@ -5,11 +5,11 @@ draft: false
 tags: ["Books", "Mainländer"]
 showDateUpdated: true
 ---
-Philipp Mainländer—his real name was Philipp Batz, the pseudonym
+Philipp Mainländer—which real name was Philipp Batz, the pseudonym
 was adopted as a homage to his natal town—is a fascinating case because of the pessimistic
 interpretation of metaphysics. Although it could be said he is a great
 exponent of Western philosophical pessimism, in reality, he lacks significant academic recognition
-and has been relegated to a second or even third place as a philosopher.
+and has been relegated to a minor place as a philosopher.
 For all this, it is not surprising that the access to his works is extremely limited, much of which has
 not even been translated from German. However, it is known he was
 read by such writers as Nietzsche and Borges, and we might suspect his influence on Cioran.
@@ -31,8 +31,8 @@ In *Die Philosophie der Erlösung*—translated as The Philosophy of Redemption 
 The Philosophy of Salvation—, Mainländer proposes a unique cosmovision of the universe: at
 the beginning, there was only God as a pre-cosmic, incognizable unit—a super-being—who, at
 some point, exercised his sole divine will after concluding that non-existence was better
-than existence. God didn't want to be. However, due to his divine nature, his essence was
-an obstacle to his immediate entrance into nothingness—since he is almighty.
+than existence. God didn't want to be. However, due to his divine nature, his very essence was
+an obstacle to his immediate entrance into nothingness—for he is almighty.
 Therefore, his essence had to disintegrate into a world of multiplicity, where every
 single individual is willing not to be, fighting each other to weaken the remaining
 strengths of a God who is no more. In this way, the whole universe—the fragments of God—has
@@ -97,7 +97,7 @@ showing us that the radical rejection of life was not
 only a theoretical stance, but it was truly a matter of existential need. I believe he could not live
 in contradiction with its own views, and after offering the world what he
 considered his most valuable work, he felt like a tree that has given its best fruits
-draining his life of any value. The logical consequence demanded coherence
+draining his life of any meaning. The logical consequence demanded coherence
 between thoughts and actions. It wasn't an act of despair, but his last philosophical
 gesture, an intellectual exercise of self-redemption.
 His case is perhaps, as Sandra Baquedano Jer maintains, one of the few deaths
@@ -107,7 +107,7 @@ in history due to an ontological argument. He was only 33 years old.
 > it would be most expedient for you not to hear?\
 > — *Nietzsche*[^1]
 
-All in all, The Philosophy of Redemption is a stimulating work for those interested in
+On the whole, The Philosophy of Redemption is a stimulating work for those interested in
 philosophical pessimism. It is a journey where you should not expect to find any relief,
 and where the question of the purpose of our existence is lucidly answered with a
 resounding and firm word: death! As Mainländer himself explained, this can serve as
