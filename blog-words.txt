@@ -45,3 +45,6 @@ cosmovision
 creational
 Kirilov
 antinatalist
+Kadare
+reducted
+inescapability
