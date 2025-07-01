@@ -44,7 +44,8 @@ starvation caused by the extreme stance of rejecting everything.
 The reasons for Bartleby's behavior have never been clear, and is the subject of, as
 I mentioned at the beginning, many conjectures on the part of critics.
 At the end of the book, the lawyer knows of a vague report that Bartleby had been
-working in the letter office, suggesting that this may have deeply affected him.
+working in the dead letter office, suggesting that this may have deeply affected him
+after reading letters meant for those who were gone.
 
 As we can see, the story is minimal, and practically nothing happens. In fact, besides
 Bartleby and the lawyer, there are only three other characters who have even a
