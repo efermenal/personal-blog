@@ -5,8 +5,11 @@ showAuthor: false
 showReadingTime: false
 showEdit: false
 ---
-
-![Author](author-about.jpg)
+{{< figure
+    src="/author-about.jpg"
+    alt="Me, myself and I"
+    caption="Existence is quite weird, isn't it?"
+    >}}
 
 Hi there!
 

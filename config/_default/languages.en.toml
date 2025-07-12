@@ -14,7 +14,7 @@ title = "Home"
 
 [params.author]
    name = "Endherson"
-   image = "img/author-main.jpg"
+   image = "img/author-main.png"
    headline = "<q>What seest thou else in the dark backward and abysm of time?</q><br/>Prospero, act I, scene II - The Tempest"
    bio = ""
    links = [
@@ -35,11 +35,11 @@ title = "Home"
   #   { google = "https://www.google.com/" },
   #   { google-scholar = "https://scholar.google.com/citations?user=user-id" },
   #   { hashnode = "https://username.hashnode.dev" },
-     { instagram = "https://www.instagram.com/efermenal" },
+  #  { instagram = "https://www.instagram.com/efermenal" },
   #   { keybase = "https://keybase.io/username" },
   #   { kickstarter = "https://www.kickstarter.com/profile/username" },
   #   { lastfm = "https://lastfm.com/user/username" },
-     { linkedin = "https://cl.linkedin.com/in/endherson-fermenal-727913109" },
+  #   { linkedin = "https://cl.linkedin.com/in/endherson-fermenal-727913109" },
   #   { mastodon = "https://mastodon.instance/@username" },
   #   { medium = "https://medium.com/username" },
   #   { mendeley = "https://www.mendeley.com/" },
