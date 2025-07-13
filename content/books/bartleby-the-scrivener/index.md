@@ -25,7 +25,7 @@ requests, causing annoyance to the rest of the copyists and disconcerting the la
 who eventually referred to his attitude as "passive resistance". Always with a calm and
 polite attitude, but at the same time firm, Bartleby continues to reject even the
 most simple and routine task—despite apparently remaining in the office all the time
-available—,including question of personal nature in the same way,
+available—, including questions of personal nature,
 as if it were the only learned message that he was able to articulate, and until
 eventually being reduced to a pale figure looking out upon a "dead brick wall".
 
@@ -38,17 +38,41 @@ to ease the tension between the copyists, and in turn, showing some mercy to Bar
 decides to move the law firm to a new building. However, some time later he learns
 that Bartleby remains in the office without caring about the new owners, and despite
 his attempts to reason with him, Bartleby ends up being evicted and sent to a police cell.
-The lawyer visits Bartleby to make sure he is okay, but later learns that he has died of
-starvation caused by the extreme stance of rejecting everything.
+The worried lawyer visits Bartleby to look after him, but after a short visit,
+later learns that he has died of starvation caused by the extreme stance of rejecting everything.
 
 The reasons for Bartleby's behavior have never been clear, and is the subject of, as
 I mentioned at the beginning, many conjectures on the part of critics.
 At the end of the book, the lawyer knows of a vague report that Bartleby had been
 working in the dead letter office, suggesting that this may have deeply affected him
-after reading letters meant for those who were gone.
+after reading letters meant for those who were gone. After knowing the story, it is also
+worth asking about the moral role of the lawyer to the extent, that a moral dilemma
+could be examined to determine whether he did what he could to help Bartleby, or gave
+in to the importance of material goods, putting empathy and charity aside.
 
 As we can see, the story is minimal, and practically nothing happens. In fact, besides
 Bartleby and the lawyer, there are only three other characters who have even a
-minimal portrayal—the other copyists: Turkey, Nippers and Ginger Nut. Melville's style
+reasonable portrayal—the other copyists: Turkey, Nippers and Ginger Nut. Melville's style
 throughout the story results in a slow, descriptive development, using simple language
 that only accelerates in the few short moments where the story reaches its climax.
+Bartleby is portrayed as a mysterious and profoundly isolated character. His disconnection
+with the work and eventually, with life itself accentuates how detached he has become from
+the world. As he begins to avoid human contact until he stares blankly at the brick wall,
+it suggests a dehumanization that is, however, difficult to explain.
+
+> I might give alms to his body, but his body did not pain him; it was his soul that
+> suffered, and his soul I could not reach
+
+Bartleby's absolute refusal to perform any tasks, to the point of
+rejecting life itself, would seem to show some kind of internal rebellion that expresses its
+nature in a quiet and even polite protest, but it is worth asking why it exists and what
+it is directed towards. In this regard, I think it's difficult not to see Barteby's story
+through an existentialist lens, preceding all the great works that later defined the genre.
+Perhaps his protest is a muffled cry aimed at denouncing an empty existence personified
+in the modern day laborer where the only meaning would seem to be material production—in
+this sense, Melville's selection of Wall Street as a set would be revealing.
+
+Melville offers no easy answers, and Bartleby stays as a stubborn figure where
+indifference and alienation remove a man from the world who can no longer consider it his own,
+leaving readers with an ambiguous story that resists any definitive interpretation, and
+ wondering about the implications of its denial.
