@@ -66,7 +66,7 @@ it suggests a dehumanization that is, however, difficult to explain.
 Bartleby's absolute refusal to perform any tasks, to the point of
 rejecting life itself, would seem to show some kind of internal rebellion that expresses its
 nature in a quiet and even polite protest, but it is worth asking why it exists and what
-it is directed towards. In this regard, I think it's difficult not to see Barteby's story
+it is directed towards. In this regard, I think it's difficult not to see Bartleby's story
 through an existentialist lens, preceding all the great works that later defined the genre.
 Perhaps his protest is a muffled cry aimed at denouncing an empty existence personified
 in the modern day laborer where the only meaning would seem to be material production—in
