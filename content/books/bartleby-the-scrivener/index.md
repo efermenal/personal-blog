@@ -5,6 +5,8 @@ draft: false
 tags: ["Books", "Melville"]
 showDateUpdated: true
 ---
+{{< book23 src="thumbs-Bartleby-The-Scrivener.jpg" alt="Bartleby, the Scrivener" >}}
+
 > I can see that figure now—pallidly neat, pitiably respectable, incurably forlorn! it was Bartleby
 
 Subtitled as "A Story of Wall Street", it's one of the most famous stories of Herman Melville,

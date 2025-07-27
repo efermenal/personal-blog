@@ -5,6 +5,8 @@ draft: false
 tags: ["Books", "García Márquez"]
 showDateUpdated: true
 ---
+{{< book23 src="thumbs-one-hundred-years-of-solitude.jpg" alt="One Hundred Years of Solitude" >}}
+
 > Uno de los grandes libros, no solo de nuestro tiempo sino de cualquier tiempo\
 > — *Jorge Luis Borges*[^1]
 

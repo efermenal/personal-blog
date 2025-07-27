@@ -5,6 +5,7 @@ draft: false
 tags: ["Books", "Kadare"]
 showDateUpdated: false
 ---
+{{< book23 src="thumbs-the_general_of_the_dead_army.jpg" alt="The General of the Dead Army" >}}
 
 Traditional war books tend to verse of heroism, glorifying the victorious side and relate
 how battles were fought in the name of whatever sacred ideal the protagonists believe in.

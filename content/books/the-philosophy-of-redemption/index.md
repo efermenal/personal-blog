@@ -5,6 +5,8 @@ draft: false
 tags: ["Books", "Mainländer"]
 showDateUpdated: true
 ---
+{{< book23 src="thumbs-the-philosophy-of-redemption.jpg" alt="The Philosophy of Redemption" >}}
+
 Philipp Mainländer—which real name was Philipp Batz, the pseudonym
 was adopted as a homage to his natal town—is a fascinating case because of the pessimistic
 interpretation of metaphysics. Although it could be said he is a great

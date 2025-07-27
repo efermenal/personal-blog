@@ -5,6 +5,8 @@ draft: false
 tags: ["Books", "Blackwood"]
 showDateUpdated: true
 ---
+{{< book23 src="thumbs-The_Willows.jpg" alt="The Willows" >}}
+
 > The art and the restraint in narrative reach their very highest development, and an impression of lasting
 > poignancy is produced without a single strained passage or a single false note.\
 > — *H. P. Lovecraft*[^1]

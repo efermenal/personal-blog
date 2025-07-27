@@ -5,6 +5,8 @@ draft: false
 tags: ["Books", "Buzzati"]
 showDateUpdated: true
 ---
+{{< book23 src="thumbs-The_Tartar_Steppe.jpg" alt="The Tartar Steppe" >}}
+
 The story follows the life of the young Lt. Giovanni Drogo, who eager to build a successful military
 career is transferred to Fort Bastiani, an isolated and remote stronghold that overlooks an empty and
 barren desert. The young Drogo is initially reluctant to serve at the fort and agrees to a temporary
