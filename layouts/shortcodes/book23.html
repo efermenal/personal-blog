@@ -1,0 +1,8 @@
+{{ $src := .Get "src" }}
+{{ $alt := .Get "alt" | default "Cover image" }}
+{{ with .Page.Resources.GetMatch $src }}
+  {{ $img := .Fill "300x450 center" }}
+  <img src="{{ $img.RelPermalink }}" alt="{{ $alt }}">
+{{ else }}
+  <p style="color:red;">Image not found: {{ $src }}</p>
+{{ end }}
