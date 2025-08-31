@@ -48,6 +48,8 @@ Meaulnes reluctantly abandons that door where everything seems possible, to ente
 less vigorous, but resigned adulthood, and I believe that this point can be clearly marked
 when he asks Seurel to forget everything.
 
+ > I thought too that our youth was over and we had failed to find happiness
+
 Seurel, by contrast, pursuits the desire not for love, but for adventure, without becoming isolated
 by his obsessions and making friendship and loyalty his hallmarks. Unlike Meaulnes, he is less reckless,
 introspective and cautious. His eyes serve to comment on the events unfolding around him, and his
