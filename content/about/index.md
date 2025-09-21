@@ -17,8 +17,8 @@ I'm gonna start saying that I've always been drawn to the idea of leaving parts 
 unspoken, like an unfinished lines of a verse. In that sense, I remember Emil Cioran once
 wrote in *The Trouble with Being Born*: "A golden rule: to leave an incomplete image of oneself".
 I believe there's wisdom in that—and there's something powerful in resisting the urge
-to be fully known, in holding something back. But a personal blog needs... well,
-a person. And so, here I am, unfinished and incomplete, but standing.
+to be fully known, in holding something back. After all, some parts of us are meant to remain unknown.
+But a personal blog needs... well, something personal. And so, here I am.
 
 My name is Endherson, and this is my first ever personal blog. I'm a software engineer with over
 9 years of experience focus on .NET and Android development. I've decided to create this site
