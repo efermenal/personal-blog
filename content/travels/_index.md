@@ -6,4 +6,3 @@ showReadingTime: false
 showEdit: false
 ---
 
-![Under Construction](under-construction.jpg)
