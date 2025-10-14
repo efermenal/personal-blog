@@ -61,7 +61,7 @@ San Pedro welcomes you with its narrow streets and adobe walls, the smell of dus
 After checking in, I walked toward the main plaza following its alleyways. The sky was so clear it felt
 like a dome made of glass.
 {{< figure
-    src="town.jpg"
+    src="images/town.jpg"
     >}}
 
 ---
