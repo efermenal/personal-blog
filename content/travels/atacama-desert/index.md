@@ -46,7 +46,7 @@ carousel:
 Silence. That's the first thing you notice in the Atacama.  
 A silence so pure that even the wind with its whispering voice
 hesitates to break it.
-
+<!--more-->
 In northern Chile, between the Andes and the Pacific, lies such a marvellous place on
 Earth—a land that might look more like Mars than anything else on our planet.
 This is my first stop for the new *Travel* section of my blog, and there couldn't be a
