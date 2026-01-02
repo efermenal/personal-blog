@@ -4,11 +4,9 @@
     {{ i18n "shortcode.recent_articles" | emojify }}
   </h2>
 
-  {{/* Date range: last calendar month */}}
+  {{/* Date range: last 31 days */}}
   {{ $now := now }}
-  {{ $startOfThisMonth := time (printf "%d-%02d-01" $now.Year $now.Month) }}
-  {{ $startOfLastMonth := $startOfThisMonth.AddDate 0 -1 0 }}
-  {{ $endOfLastMonth := $startOfThisMonth.AddDate 0 0 -1 }}
+  {{ $since := $now.AddDate 0 0 -31 }}
 
   {{/* Sections to show (reuse Congo config if possible) */}}
   {{ $sections := slice "books" "travels" }}
@@ -17,8 +15,8 @@
     {{ $section := . }}
 
     {{ $pages := where site.RegularPages "Section" $section }}
-    {{ $pages = where $pages "Date" ">=" $startOfLastMonth }}
-    {{ $pages = where $pages "Date" "<=" $endOfLastMonth }}
+    {{ $pages = where $pages "Date" ">=" $since }}
+    {{ $pages = where $pages "Date" "<=" $now }}
     {{ $pages = sort $pages "Date" "desc" }}
 
     <div class="mt-6">
