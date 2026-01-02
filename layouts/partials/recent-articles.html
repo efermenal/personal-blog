@@ -11,7 +11,7 @@
   {{ $endOfLastMonth := $startOfThisMonth.AddDate 0 0 -1 }}
 
   {{/* Sections to show (reuse Congo config if possible) */}}
-  {{ $sections := slice "travels" "books" }}
+  {{ $sections := slice "books" "travels" }}
 
   {{ range $sections }}
     {{ $section := . }}
