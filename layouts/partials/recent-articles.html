@@ -1,0 +1,51 @@
+{{ if .Site.Params.homepage.showRecent | default false }}
+
+  <h2 class="mt-8 text-2xl font-extrabold">
+    {{ i18n "shortcode.recent_articles" | emojify }}
+  </h2>
+
+  {{/* Date range: last calendar month */}}
+  {{ $now := now }}
+  {{ $startOfThisMonth := time (printf "%d-%02d-01" $now.Year $now.Month) }}
+  {{ $startOfLastMonth := $startOfThisMonth.AddDate 0 -1 0 }}
+  {{ $endOfLastMonth := $startOfThisMonth.AddDate 0 0 -1 }}
+
+  {{/* Sections to show (reuse Congo config if possible) */}}
+  {{ $sections := slice "travels" "books" }}
+
+  {{ range $sections }}
+    {{ $section := . }}
+
+    {{ $pages := where site.RegularPages "Section" $section }}
+    {{ $pages = where $pages "Date" ">=" $startOfLastMonth }}
+    {{ $pages = where $pages "Date" "<=" $endOfLastMonth }}
+    {{ $pages = sort $pages "Date" "desc" }}
+
+    <div class="mt-6">
+
+      <div class="flex items-baseline justify-between">
+        <h3 class="text-xl font-bold">
+          {{ $section | title }}
+        </h3>
+        <a
+          href="{{ relURL $section }}/"
+          class="text-sm text-primary hover:underline"
+        >
+          See all {{ $section }} →
+        </a>
+      </div>
+
+      {{ with first 1 $pages }}
+        {{ range . }}
+          {{ partial "article-link.html" . }}
+        {{ end }}
+      {{ else }}
+        <p class="mt-2 text-sm opacity-70 italic">
+          No updates last month.
+        </p>
+      {{ end }}
+
+    </div>
+  {{ end }}
+
+{{ end }}
