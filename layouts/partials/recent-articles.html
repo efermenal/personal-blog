@@ -10,6 +10,7 @@
 
   {{/* Sections to show (reuse Congo config if possible) */}}
   {{ $sections := slice "books" "travels" }}
+  {{ $limit := .Site.Params.homepage.recentLimit | default 1 }}
 
   {{ range $sections }}
     {{ $section := . }}
@@ -33,7 +34,7 @@
         </a>
       </div>
 
-      {{ with first 1 $pages }}
+      {{ with first $limit $pages }}
         {{ range . }}
           {{ partial "article-link.html" . }}
         {{ end }}
