@@ -2,7 +2,7 @@
 title: "Among Salt and Stars — Exploring the Atacama Desert"
 date: 2025-10-13
 draft: false
-tags: ["Chile", "Atacama", "Desert"]
+tags: ["Chile", "Atacama", "Desert", "Travel"]
 showDateUpdated: true
 carousel:
   - src: "images/lagoonsAnFlamingos.jpg"
@@ -41,8 +41,8 @@ carousel:
   - src: "images/tatyoGeyser4.jpg"
     alt: ""
     caption: ""    
-
 ---
+
 Silence. That's the first thing you notice in the Atacama.  
 A silence so pure that even the wind with its whispering voice
 hesitates to break it.
