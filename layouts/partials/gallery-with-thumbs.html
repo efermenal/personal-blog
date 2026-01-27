@@ -1,0 +1,163 @@
+<!-- ✅ Swiper CSS & JS -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css" />
+<script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-element-bundle.min.js"></script>
+
+<style>
+  swiper-container {
+      width: 100%;
+      height: 100%;
+    }
+
+    swiper-slide {
+      text-align: center;
+      font-size: 18px;
+      background: #444;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+
+    swiper-slide img {
+      display: block;
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+    }
+
+    body {
+      background: #000;
+      color: #000;
+    }
+
+    swiper-container {
+      width: 100%;
+      height: 3000px;
+      margin-left: auto;
+      margin-right: auto;
+    }
+
+    swiper-slide {
+      background-size: cover;
+      background-position: center;
+    }
+
+    .mySwiper {
+      height: 80%;
+      width: 100%;
+    }
+
+    .mySwiper2 {
+      height: 20%;
+      box-sizing: border-box;
+      padding: 10px 0;
+    }
+
+    .mySwiper2 swiper-slide {
+      width: 25%;
+      height: 100%;
+      opacity: 0.4;
+    }
+
+    .mySwiper2 .swiper-slide-thumb-active {
+      opacity: 1;
+    }
+
+    swiper-slide img {
+      display: block;
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+    }
+
+/* Captions */
+.slide-caption {
+  text-align: center;
+  font-style: italic;
+  font-size: 0.9rem;
+  color: #aaa;
+  margin-top: 0.5rem;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  .mySwiper {
+    height: 300px;
+  }
+  .mySwiper2 {
+    height: 80px;
+  }
+}
+</style>
+
+<div class="swiper-container">
+  <!-- Main Swiper -->
+  <swiper-container class="mySwiper" thumbs-swiper=".mySwiper2" navigation="true" space-between="10">
+    {{ $page := .Page }}
+    {{ range .images }}
+      {{ $img := $page.Resources.GetMatch .src }}
+      {{ $img := $page.Resources.GetMatch .src }}
+      {{ if not $img }}
+        {{ $img = $page.Resources.GetMatch (printf "images/%s" .src) }}
+      {{ end }}
+      <swiper-slide>
+         {{ if $img }}
+            <img
+              src="{{ $img.RelPermalink }}"
+              alt="{{ .alt }}"
+            />
+          {{ else }}
+            <img src="{{ .src }}" alt="{{ .alt }}" />
+          {{ end }}
+      </swiper-slide>
+    {{ end }}
+  </swiper-container>
+
+  <!-- Thumbnails -->
+  <swiper-container class="mySwiper2" space-between="10" slides-per-view="4" free-mode="true" watch-slides-progress="true">
+    {{ $page := .Page }}
+    {{ range .images }}
+      {{ $img := $page.Resources.GetMatch .src }}
+      {{ $img := $page.Resources.GetMatch .src }}
+      {{ if not $img }}
+        {{ $img = $page.Resources.GetMatch (printf "images/%s" .src) }}
+      {{ end }}
+      <swiper-slide>
+         {{ if $img }}
+            <img
+              src="{{ $img.RelPermalink }}"
+              alt="{{ .alt }}"
+            />
+          {{ else }}
+            <img src="{{ .src }}" alt="{{ .alt }}" />
+          {{ end }}
+      </swiper-slide>
+    {{ end }}
+  </swiper-container>
+
+  <!-- Captions -->
+  <div id="carousel-captions">
+    {{ range $index, $el := .images }}
+      {{ with $el.caption }}
+        <div class="slide-caption" data-index="{{ $index }}">{{ . }}</div>
+      {{ end }}
+    {{ end }}
+  </div>
+</div>
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  
+  const swiperMain = document.querySelector('.mySwiper').swiper;
+  const captions = document.querySelectorAll('.slide-caption');
+
+  // Show only the first caption initially
+  captions.forEach((el, i) => { el.style.display = (i === 0) ? 'block' : 'none'; });
+
+  // Update caption on slide change
+  swiperMain.on('slideChange', () => {
+    captions.forEach((el, i) => {
+      el.style.display = (i === swiperMain.realIndex) ? 'block' : 'none';
+    });
+  });
+});
+</script>
