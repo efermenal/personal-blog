@@ -1,0 +1,58 @@
+.dropcap::first-letter {
+  float: left;
+  font-size: 4rem;
+  line-height: 0.9;
+  font-weight: 700;
+  margin-right: 0.6rem;
+  margin-top: 0.3rem;
+  font-family: Georgia, serif;
+}
+
+/* Base pull quote */
+.pull-quote {
+  width: 45%;
+  position: relative;
+
+  font-family: ui-serif, Georgia, Cambria, "Times New Roman", serif;
+  font-style: italic;
+  font-size: 1.15rem;
+  line-height: 1.6;
+  color: inherit;
+
+  padding: 1rem 0;          /* space for the lines */
+  border-top: 1px solid rgba(0, 0, 0, 0.2);
+  border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+  opacity: 0.9;
+}
+
+/* Float control */
+.pull-quote.right {
+  float: right;
+  margin: 0.5rem 0 1rem 1.5rem;
+  text-align: left;
+}
+
+.pull-quote.left {
+  float: left;
+  margin: 0.5rem 1.5rem 1rem 0;
+  text-align: right;
+}
+
+/* Proper hanging punctuation */
+.pull-quote::before,
+.pull-quote::after {
+  font-size: 1.2em;
+  opacity: 0.6;
+}
+
+/* Opening quote */
+.pull-quote::before {
+  content: "“";
+  margin-left: -0.35em;   /* hangs outside */
+}
+
+/* Closing quote */
+.pull-quote::after {
+  content: "”";
+  margin-right: -0.35em;  /* hangs outside */
+}
